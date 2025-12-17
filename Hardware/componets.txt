@@ -1,1 +1,13 @@
+=== COMPONENTS LIST ===
 
+1. Arduino Uno R3
+2. HC-SR04 Ultrasonic Sensor
+3. RGB LED (Common Cathode)
+4. Active Buzzer
+5. IR Luminosity Sensor
+6. Resistors: 3x 220Ω, 1x 1kΩ
+7. Breadboard and jumper wires
+8. 5V Power supply
+
+Total cost: ~$25 USD
+Made in Mozambique with accessible components.
