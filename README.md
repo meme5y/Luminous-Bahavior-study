@@ -1,6 +1,6 @@
 # 🌈 Luminous-Behavior Study: Effects of Color on Distance Perception
 
-**Authors**: [Your Name] & [Friend's Name]  
+**Authors**: Fernando Augusto & Daniel Sora
 **Country**: Mozambique  
 **Fields**: Aerospace Engineering & Data Science  
 **Year**: 2024
@@ -110,13 +110,13 @@ This project demonstrates:
 
 ## 👥 Authors & Contributions
 
-### [Your Name] - Hardware & Aerospace Applications
+### Fernando Augusto- Hardware & Aerospace Applications
 - Circuit design and assembly
 - Embedded systems programming
 - Experimental setup
 - Aerospace relevance analysis
 
-### [Friend's Name] - Data Science & Statistics
+### Daniel Sora- Data Science & Statistics
 - Statistical methodology
 - Python analysis pipeline
 - Data visualization
@@ -130,11 +130,9 @@ This project demonstrates:
 - [Components List](hardware/components.txt)
 
 ## 📞 Contact
-
-**Student Researcher**: [Your Name]  
-**Institution**: [Your School/University]  
+ 
 **Location**: Mozambique  
-**GitHub**: https://github.com/[your-username]
+**GitHub**: https://github.com/meme5y
 
 ---
 
