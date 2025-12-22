@@ -4,8 +4,8 @@
 Effects of Light Color on Human Distance Perception Accuracy
 
 ## Authors
-[Your Name] - Aerospace Engineering  
-[Friend's Name] - Data Science & Statistics
+Fernando Augusto- Aerospace Engineering  
+Daniel Sora - Data Science & Statistics
 
 ## Location
 Mozambique, 2024
